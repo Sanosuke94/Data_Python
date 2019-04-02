@@ -5,9 +5,9 @@ nibble starting exercise.
 
 
 def main():
-    print("This the first test of python")  # TODO: Change this line
+    print("That's how it starts")  # TODO: Change this line
 
-    print("username:Sanosuke94")# TODO: print out the github username of your teammate
+    print("Sanosuke94")# TODO: print out the github username of your teammate
 
 
 
