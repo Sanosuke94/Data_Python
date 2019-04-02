@@ -65,7 +65,6 @@ dependencies:
   - jupyter_latex_envs=1.4.4
   - jupyter_nbextensions_configurator=0.4.0
   - kiwisolver=1.0.1
-  - libcxx=6.0.1
   - libffi=3.2.1
   - libiconv=1.15
   - libpng=1.6.35
